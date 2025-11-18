@@ -1,7 +1,7 @@
 
 # Device infostealer
 
-This python script can steal users device informations and send that information through **bot**
+This python script can steal users device informations and send that information through **telegram bot**
 ## Setup
 
 - Replace with your bot token
